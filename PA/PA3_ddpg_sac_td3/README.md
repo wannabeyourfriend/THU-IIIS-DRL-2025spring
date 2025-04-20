@@ -285,4 +285,5 @@ class SoftActor(Actor):
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image-20250420130305061](assets/image-20250420130305061.png) | ![image-20250420130234545](assets/image-20250420130234545.png) |
 
-<video src="E:\GITHUB\DRL\PAs\PA3_ddpg_sac_td3\runs\2025-04-20\07-57-46_agent=sac_succeed\videos\final_videos_seed_3407.mp4"></video>
+<video src="runs/2025-04-20/07-57-46_agent=sac_succeed/videos/final_videos_seed_3407.mp4"></video>
+
